@@ -20,7 +20,9 @@
 * Multiple languages products management
 
 **2.b) Known issues**
-DoliZipAuto manage various country code
+
+DoliAipAuto manage various country zip code
+
 * Tunisie
 * France
 * Algeria ( soon )
