@@ -1,5 +1,5 @@
-# ZipAutoFill FRANCE TUNISIE #
-## external Dolibarr Module
+## ZipAutoFill FRANCE TUNISIE ##
+### External Dolibarr Module ###
 
 
 **Contributors:** www.KB2i.com
@@ -11,7 +11,7 @@
 **License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
 
-## Description ##
+### Description ###
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### Features ###
