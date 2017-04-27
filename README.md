@@ -2,22 +2,17 @@
 # external Dolibarr Module
 
 
-**Contributors:** askri.nasredinne@gmail.com
-
-**Tags:**               dolibarr, france zipcode, tunisie zipcode.
-
-**Plugin URI:**         https://gpcsolutions.github.io/doliwoo  
+**Contributors:** www.KB2i.com
+**Tags:**               dolibarr, france zipcode, tunisie zipcode                  
+**Plugin contact:**         askri.nasredinne@gmail.com
 **Requires at least:**  5.0.0  
 **Tested up to:**       5.0.1  
 **License:**            GPL-3.0+  
 **License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
-Autofill zip code for Dilbarr
 
 ## Description ##
-Doliwoo allows integration of Dolibarr into WooCommerce.
-
-It leverages Dolibarr webservices feature to exchange data.
+external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### Features ###
 
