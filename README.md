@@ -1,5 +1,5 @@
 # ZipAutoFill FRANCE TUNISIE #
-# external Dolibarr Module
+## external Dolibarr Module
 
 
 **Contributors:** www.KB2i.com
@@ -71,25 +71,7 @@ All other countries are missing. Contributions welcome!
 1. Make sure the WooCommerce plugin is installed into your WordPress
 2. Extract the zip file to the 'wp-content/plugins/' directory of your WordPress installation
 3. Activate the plugin from 'Plugins' WordPress settings page
-4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section
-
-## Frequently Asked Questions ##
-
-### Is this plugin stable and useable in a production environment? ###
-
-NO! This is beta code. This project started as an internal proof of concept and has just been reviewed.  
-But you're very welcome to test it on a pre-production environment.
-
-### OK, so how can I make it happen then? ###
-
-You can help by testing, providing detailed bug reports, documentation or even code.  
-**Alternatively, you can buy paid support and/or development services from us:** [GPC.solutions](https://gpcsolutions.fr).  
-
-### Why do I need to use HTTPS with a good known SSL certificate? ###
-
-Otherwise SOAP requests will fail.  
-This is a security feature to make sure your important data is properly encrypted in transit between WooCommerce and Dolibarr.  
-You may allow insecure requests by tweaking the source code if you know what you're doing but we don't recommend that.  
+4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section 
 
 ## Screenshots ##
 
