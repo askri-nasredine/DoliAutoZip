@@ -14,10 +14,8 @@
     external Dolibarr Module, Autofill zip code for Dolibarr
 ### 2. Features ###
 **2.a)  Known missing (TODO)**
- * Products stock informations resync on orders
-  * Invoicing
-* Payments
-* Multiple languages products management
+* Update 
+* Select specific zipcode to specific region in precise country
 
 **2.b) Known issues**
 
