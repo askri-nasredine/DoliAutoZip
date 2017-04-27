@@ -1,13 +1,10 @@
 # ZipAutoFill FRANCE TUNISIE #
 # external Dolibarr Module
 
-Autofill zip code for Dilbarr (By Default Tunisia, France zip code  )
 
 **Contributors:** askri.nasredinne@gmail.com
 
 **Tags:**               dolibarr, france zipcode, tunisie zipcode.
-
-
 
 **Plugin URI:**         https://gpcsolutions.github.io/doliwoo  
 **Requires at least:**  5.0.0  
@@ -15,7 +12,7 @@ Autofill zip code for Dilbarr (By Default Tunisia, France zip code  )
 **License:**            GPL-3.0+  
 **License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
-Integrate Dolibarr with a WooCommerce shop.
+Autofill zip code for Dilbarr
 
 ## Description ##
 Doliwoo allows integration of Dolibarr into WooCommerce.
