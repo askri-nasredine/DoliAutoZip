@@ -11,7 +11,7 @@
 **License URI:**           http://www.gnu.org/licenses/gpl-3.0.html
 
 ### 1. Description ###
-   -- external Dolibarr Module, Autofill zip code for Dolibarr
+    external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
 **2.a)  Known missing (TODO)**
@@ -23,7 +23,7 @@
 
 **2.b) Known issues**
 
-  DoliZipAuto manage various country code
+   DoliZipAuto manage various country code
 * Tunisie
 * France
 * Algeria ( soon )
@@ -32,7 +32,7 @@
 All other countries are missing. Contributions welcome!
 
 ### 3. Requirements ###
-   Dolibarr 5.0 with mysql database 5.1 or Higher
+    Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 4. Installation ###
 
