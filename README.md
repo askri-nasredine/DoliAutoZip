@@ -21,8 +21,7 @@
 
 **2.b) Known issues**
 
-DoliAipAuto manage various country zip code
-
+DoliZipAuto manage various country zip code
 * Tunisie
 * France
 * Algeria ( soon )
