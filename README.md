@@ -14,17 +14,19 @@
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
-  **a) Known missing (TODO)**
-
 * Products stock informations resync on orders
-* Invoicing
+
+   **a)  Known missing (TODO)**
+   
+ * Products stock informations resync on orders
+  * Invoicing
 * Payments
 * Multiple languages products management
 
   **b) Known issues**
 
-WooCommerce VAT management vastly differs from Dolibarr and we need equivalence tables.  
-Supplied tables:
+  WooCommerce VAT management vastly differs from Dolibarr and we need equivalence tables.  
+    Supplied tables:
 * Chile
 * France
 * Germany
@@ -50,7 +52,7 @@ Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 7. Changelog ###
 
-** 1.0.2 **
+** 0.0.0 **
 
 * Even better logging
 * Fixed thirdparties creation (prevented Dolibarr order crea
