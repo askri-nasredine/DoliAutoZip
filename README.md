@@ -14,8 +14,6 @@
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
-* Products stock informations resync on orders
-
    **a)  Known missing (TODO)**
    
  * Products stock informations resync on orders
