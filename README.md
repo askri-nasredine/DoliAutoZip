@@ -45,7 +45,7 @@ Supplied tables:
 All other countries are missing. Contributions welcome!
 
 ### Requirements ###
-*** Dolibarr 5.0 ***
+** Dolibarr 5.0 **
 
 ## Installation ##
 
