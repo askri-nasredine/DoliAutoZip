@@ -36,10 +36,11 @@ All other countries are missing. Contributions welcome!
 
 ### 4. Installation ###
 
- 1. Make sure the WooCommerce plugin is installed into your WordPress
-  2. Extract the zip file to the 'wp-content/plugins/' directory of your WordPress installation
-  3. Activate the plugin from 'Plugins' WordPress settings page
-  4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section 
+ 1. Be certain for the access rights on your operating system, especially linux
+    chmod a+x DoliAutoZip.zip
+  2. Extract the zip file to the 'dolibarr/htdocs' directory of web server
+  3. Activate the module from Configuration -> Modules page
+  4. Go to 'WooCommerce' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
 ### 5. Screenshots ###
 
