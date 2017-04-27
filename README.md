@@ -10,22 +10,10 @@
 **License:**            GPL-3.0+  
 **License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
-
 ### Description ###
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### Features ###
-
-**Dolibarr to WooCommerce**
-
-* Periodic sync of products informations including images and stock informations
-* Link customers to existing thirdparties
-
-**WooCommerce to Dolibarr**
-
-* Create thirdparties
-* Create customer orders
-
 **Known missing (TODO)**
 
 * Products stock informations resync on orders
@@ -45,7 +33,7 @@ Supplied tables:
 All other countries are missing. Contributions welcome!
 
 ### Requirements ###
-** Dolibarr 5.0 **
+Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ## Installation ##
 
