@@ -45,26 +45,7 @@ Supplied tables:
 All other countries are missing. Contributions welcome!
 
 ### Requirements ###
-
-**PHP extensions**
-
-* SOAP
-* OpenSSL
-
-**WordPress plugins**
-
-* Woocommerce >= 2.0.0
-
-**Dolibarr**
-
-* HTTPS access with a valid certificate
-* Dolibarr >= 3.4.0
-* Modules:
-    * Webservices
-    * Thirdparties
-    * Products
-    * Categories (Products)
-    * Orders
+*** Dolibarr 5.0 ***
 
 ## Installation ##
 
