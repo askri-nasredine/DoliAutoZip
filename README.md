@@ -32,7 +32,7 @@ external Dolibarr Module, Autofill zip code for Dolibarr
 All other countries are missing. Contributions welcome!
 
 ### 3. Requirements ###
-Dolibarr 5.0 with mysql database 5.1 or Higher
+   Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 4. Installation ###
 
