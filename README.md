@@ -25,12 +25,12 @@ external Dolibarr Module, Autofill zip code for Dolibarr
 
   **b) Known issues**
 
-  DoliZipAuto manage various 
-    Supplied tables:
+  DoliZipAuto manage various country code
 * Tunisie
 * France
 * Algeria ( soon )
 * Morroco ( soon )
+* Italy ( soon )
 All other countries are missing. Contributions welcome!
 
 ### 3. Requirements ###
@@ -38,10 +38,10 @@ Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 4. Installation ###
 
-1. Make sure the WooCommerce plugin is installed into your WordPress
-2. Extract the zip file to the 'wp-content/plugins/' directory of your WordPress installation
-3. Activate the plugin from 'Plugins' WordPress settings page
-4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section 
+ 1. Make sure the WooCommerce plugin is installed into your WordPress
+  2. Extract the zip file to the 'wp-content/plugins/' directory of your WordPress installation
+  3. Activate the plugin from 'Plugins' WordPress settings page
+  4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section 
 
 ### 5. Screenshots ###
 
