@@ -14,7 +14,7 @@
     external Dolibarr Module, Autofill zip code for Dolibarr
 ### 2. Features ###
 **2.a)  Known missing (TODO)**
-* Update 
+* Update method for incorrect code from a parameterization interface 
 * Select specific zipcode to specific region in precise country
 
 **2.b) Known issues**
