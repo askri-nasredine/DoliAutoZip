@@ -1,5 +1,5 @@
-## ZipAutoFill FRANCE TUNISIE ##
-### External Dolibarr Module ###
+## DoliAutozip ##
+### External Dolibarr Module for FRANCE, TUNISIE zip code autofill ###
 
 
 **Contributors:** www.KB2i.com
