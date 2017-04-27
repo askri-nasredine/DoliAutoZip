@@ -10,11 +10,10 @@ Autofill zip code for Dilbarr (By Default Tunisia, France zip code  )
 
 
 **Plugin URI:**         https://gpcsolutions.github.io/doliwoo  
-**Requires at least:**  3.7.1  
-**Tested up to:**       3.7.1  
-**Stable tag:**         1.0.2  
+**Requires at least:**  5.0.0  
+**Tested up to:**       5.0.1  
 **License:**            GPL-3.0+  
-**License URI:**        http://www.gnu.org/licenses/gpl-3.0.html  
+**License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
 Integrate Dolibarr with a WooCommerce shop.
 
