@@ -52,7 +52,6 @@ Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 7. Changelog ###
 
-** 0.0.0 **
-
-* Even better logging
+**0.0.1**
+* Refactor French zipcode database
 * Fixed thirdparties creation (prevented Dolibarr order crea
