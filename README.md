@@ -36,7 +36,7 @@ All other countries are missing. Contributions welcome!
     chmod a+x DoliAutoZip.zip
   2. Extract the zip file to the 'dolibarr/htdocs' directory of web server
   3. Activate the module from Configuration -> Modules page
-  4. Go to 'WooCommerce' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
+  4. Go to 'DoliAutoZip' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
 ### 5. Screenshots ###
 ![The screen shot](assets/screenshot-1.png)
