@@ -10,18 +10,18 @@
 **License:**            GPL-3.0+  
 **License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
 
-### Description ###
+### 1. Description ###
 external Dolibarr Module, Autofill zip code for Dolibarr
 
-### Features ###
-**Known missing (TODO)**
+### 2. Features ###
+**    a) Known missing (TODO)**
 
 * Products stock informations resync on orders
 * Invoicing
 * Payments
 * Multiple languages products management
 
-**Known issues**
+**    b) Known issues**
 
 WooCommerce VAT management vastly differs from Dolibarr and we need equivalence tables.  
 Supplied tables:
@@ -32,25 +32,25 @@ Supplied tables:
 * Spain
 All other countries are missing. Contributions welcome!
 
-### Requirements ###
+### 3. Requirements ###
 Dolibarr 5.0 with mysql database 5.1 or Higher
 
-## Installation ##
+### 4. Installation ###
 
 1. Make sure the WooCommerce plugin is installed into your WordPress
 2. Extract the zip file to the 'wp-content/plugins/' directory of your WordPress installation
 3. Activate the plugin from 'Plugins' WordPress settings page
 4. Go to 'WooCommerce' 'Settings' under the 'Integration' tab and configure the 'Doliwoo' section 
 
-## Screenshots ##
+### 5. Screenshots ###
 
-### 1. The configuration page ###
+### 6. The configuration page ###
 ![The configuration page](assets/screenshot-1.png)
 
 
-## Changelog ##
+### 7. Changelog ###
 
-### 1.0.2 ###
+** 1.0.2 **
 
 * Even better logging
 * Fixed thirdparties creation (prevented Dolibarr order crea
