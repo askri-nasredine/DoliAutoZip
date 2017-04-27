@@ -12,18 +12,15 @@
 
 ### 1. Description ###
     external Dolibarr Module, Autofill zip code for Dolibarr
-
 ### 2. Features ###
 **2.a)  Known missing (TODO)**
-   
  * Products stock informations resync on orders
   * Invoicing
 * Payments
 * Multiple languages products management
 
 **2.b) Known issues**
-
-   DoliZipAuto manage various country code
+DoliZipAuto manage various country code
 * Tunisie
 * France
 * Algeria ( soon )
@@ -43,7 +40,7 @@ All other countries are missing. Contributions welcome!
   4. Go to 'WooCommerce' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
 ### 5. Screenshots ###
-
+![The configuration page](assets/screenshot-1.png)
 ### 6. The configuration page ###
 ![The configuration page](assets/screenshot-1.png)
 
