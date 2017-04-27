@@ -25,13 +25,12 @@ external Dolibarr Module, Autofill zip code for Dolibarr
 
   **b) Known issues**
 
-  WooCommerce VAT management vastly differs from Dolibarr and we need equivalence tables.  
+  DoliZipAuto manage various 
     Supplied tables:
-* Chile
+* Tunisie
 * France
-* Germany
-* Italy
-* Spain
+* Algeria ( soon )
+* Morroco ( soon )
 All other countries are missing. Contributions welcome!
 
 ### 3. Requirements ###
@@ -52,6 +51,6 @@ Dolibarr 5.0 with mysql database 5.1 or Higher
 
 ### 7. Changelog ###
 
-  ** 0.0.1 **
+  **0.0.1**
 * Refactor French zipcode database
 * Fixed thirdparties creation (prevented Dolibarr order crea
