@@ -14,14 +14,14 @@
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
-**    a) Known missing (TODO)**
+  **a) Known missing (TODO)**
 
 * Products stock informations resync on orders
 * Invoicing
 * Payments
 * Multiple languages products management
 
-**    b) Known issues**
+  **b) Known issues**
 
 WooCommerce VAT management vastly differs from Dolibarr and we need equivalence tables.  
 Supplied tables:
