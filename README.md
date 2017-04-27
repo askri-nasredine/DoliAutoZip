@@ -14,14 +14,14 @@
 external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
-   **a)  Known missing (TODO)**
+**2.a)  Known missing (TODO)**
    
  * Products stock informations resync on orders
   * Invoicing
 * Payments
 * Multiple languages products management
 
-  **b) Known issues**
+**2.b) Known issues**
 
   DoliZipAuto manage various country code
 * Tunisie
