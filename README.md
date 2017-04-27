@@ -2,16 +2,16 @@
 ### External Dolibarr Module for FRANCE, TUNISIE zip code autofill ###
 
 
-**Contributors:** www.KB2i.com
-**Tags:**               dolibarr, france zipcode, tunisie zipcode                  
-**Plugin contact:**         askri.nasredinne@gmail.com
-**Requires at least:**  5.0.0  
-**Tested up to:**       5.0.1  
-**License:**            GPL-3.0+  
-**License URI:**        http://www.gnu.org/licenses/gpl-3.0.html
+**Contributors:**          www.KB2i.com
+**Tags:**                   dolibarr, france zipcode, tunisie zipcode                  
+**Plugin contact:**        askri.nasredinne@gmail.com
+**Requires at least:**     5.0.0  
+**Tested up to:**         5.0.1  
+**License:**               GPL-3.0+  
+**License URI:**           http://www.gnu.org/licenses/gpl-3.0.html
 
 ### 1. Description ###
-external Dolibarr Module, Autofill zip code for Dolibarr
+   -- external Dolibarr Module, Autofill zip code for Dolibarr
 
 ### 2. Features ###
 **2.a)  Known missing (TODO)**
