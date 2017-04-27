@@ -39,7 +39,7 @@ All other countries are missing. Contributions welcome!
   4. Go to 'DoliAutoZip' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
 ### 5. Screenshots ###
-![The screen shot](img/Code-postaux-autofill.jpg)
+![The screen shot](img/autofill.jpg)
 ### 6. The configuration page ###
 ![The configuration page](assets/screenshot-1.png)
 
