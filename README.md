@@ -1,10 +1,10 @@
 ## DoliAutoZip ##
 ### External Dolibarr Module for FRANCE, TUNISIE zip code autofill ###
 
-
+**Module Contact:** [askri.nasredinne@gmail.com]
 **Contributors:**          www.KB2i.com
+
 **Tags:**                   dolibarr, france zipcode, tunisie zipcode                  
-**Plugin contact:**        askri.nasredinne@gmail.com
 **Requires at least:**     5.0.0  
 **Tested up to:**         5.0.1  
 **License:**               GPL-3.0+  
@@ -21,7 +21,7 @@
 
 **2.b) Known issues**
 
-DoliZipAuto manage various country zip code
+DoliAutoZip manage various country zip code
 * Tunisie
 * France
 * Algeria ( soon )
@@ -41,7 +41,7 @@ All other countries are missing. Contributions welcome!
   4. Go to 'WooCommerce' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
 ### 5. Screenshots ###
-![The configuration page](assets/screenshot-1.png)
+![The screen shot](assets/screenshot-1.png)
 ### 6. The configuration page ###
 ![The configuration page](assets/screenshot-1.png)
 
