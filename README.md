@@ -1,4 +1,4 @@
-## DoliAutoZip - V0.0.1##
+## DoliAutoZip - V0.0.1 ##
 ### External Dolibarr module AutofillZipCode ###
 
 
