@@ -4,9 +4,9 @@
 
 **Module Contact:** askri.nasredinne@gmail.com    
 **Contributors:** www.kb2i.com   
-**Requires at least:**     5.0.0
-**Tested up to:**         5.0.1
-**License:**               GPL-3.0+  
+**Requires at least:**     5.0.0   
+**Tested up to:**         5.0.1   
+**License:**               GPL-3.0+     
 **License URI:**           http://www.gnu.org/licenses/gpl-3.0.html   
 **Tags:**                   dolibarr, france zipcode, tunisie zipcode   
     
