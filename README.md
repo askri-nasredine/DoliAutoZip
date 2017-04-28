@@ -8,15 +8,13 @@
 **License:**               GPL-3.0+  
 **License URI:**           http://www.gnu.org/licenses/gpl-3.0.html
 **Contributors:** www.kb2i.com
-
-### 1. Description ###
-    external Dolibarr Module, Autofill zip code for Dolibarr
-### 2. Features ###
-**2.a)  Known missing (TODO)**
+    
+### 1. Features ###
+**1.a)  Known missing (TODO)**
 * Update method for incorrect code from a parameterization interface 
 * Select specific zipcode to specific region in precise country
 
-**2.b) Known issues**
+**1.b) Known issues**
 
 DoliAutoZip manage various country zip code
 * Tunisie
@@ -26,10 +24,10 @@ DoliAutoZip manage various country zip code
 * Italy ( soon )
 All other countries are missing. Contributions welcome!
 
-### 3. Requirements ###
+### 2. Requirements ###
     Dolibarr 5.0 with mysql database 5.1 or Higher
 
-### 4. Installation ###
+### 3. Installation ###
 
  1. Be certain for the access rights on your operating system, especially linux
     chmod a+x DoliAutoZip.zip
@@ -37,13 +35,13 @@ All other countries are missing. Contributions welcome!
   3. Activate the module from Configuration -> Modules page
   4. Go to 'DoliAutoZip' 'Settings' under the ' Configuration -> Company/Instution' tab and select the 'zip code' fill
 
-### 5. Screenshots ###
+### 4. Screenshots ###
 ![The screen shot](img/autofill.jpg)
-### 6. The configuration page ###
+### 5. The configuration page ###
 ![The configuration page](assets/screenshot-1.png)
 
 
-### 7. Changelog ###
+### 6. Changelog ###
 
   **0.0.1**
 * Refactor French zipcode database
