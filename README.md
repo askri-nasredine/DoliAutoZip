@@ -1,8 +1,8 @@
 ## DoliAutoZip ##
 ### External Dolibarr module AutofillZipCode ###
+**Tags:**                   dolibarr, france zipcode, tunisie zipcode
 
 **Module Contact:** askri.nasredinne@gmail.com
-**Tags:**                   dolibarr, france zipcode, tunisie zipcode                  
 **Requires at least:**     5.0.0  
 **Tested up to:**         5.0.1  
 **License:**               GPL-3.0+  
