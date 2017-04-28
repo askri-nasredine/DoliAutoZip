@@ -13,11 +13,9 @@
 ### 1. Features ###
 **1.a)  Known missing (TODO)**
 * Update method for incorrect code from a parameterization interface 
-* Select specific zipcode to specific region in precise country
-
-**1.b) Known issues**
-
-DoliAutoZip manage various country zip code
+* Select specific zipcode to specific region in precise country         
+**1.b) Known issues**   
+DoliAutoZip manage various country zip code   
 * Tunisie
 * France
 * Algeria ( soon )
